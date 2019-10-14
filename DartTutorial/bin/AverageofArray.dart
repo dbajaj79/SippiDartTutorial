@@ -16,5 +16,5 @@ main()
 
   }
 
-  print("Average of Given Array is=${sumofArrayElements%size}");
+  print("Average of Given Array is=${sumofArrayElements/size}");
 }

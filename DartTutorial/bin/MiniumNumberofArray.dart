@@ -17,5 +17,5 @@ main()
     }
   }
 
-  print("Minium Number of Given Array is=$mininum");
+  print("Minimum Number of Given Array is=$mininum");
 }
