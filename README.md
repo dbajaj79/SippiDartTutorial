@@ -1,4 +1,1 @@
-A sample command-line application.
-
-Created from templates made available by Stagehand under a BSD-style
-[license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
+In this repository you get code of dart tutorial which is explained http://www.sippitechnologies.com/dart/
